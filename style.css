@@ -4,3 +4,10 @@
   border: none;
 }
 
+<<<<<<< HEAD
+=======
+.ui.borderless.middlemenu.menu{
+  box-shadow: none;
+  border: none;
+}
+>>>>>>> middle-1
